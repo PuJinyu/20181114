@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_20111" />
+        <module name="_201800" />
         <module name="_20180919" />
         <module name="_20180921" />
         <module name="_20180926" />
@@ -19,6 +20,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="_20111" target="1.5" />
+      <module name="_201800" target="1.7" />
       <module name="_20180919" target="1.7" />
       <module name="_20180921" target="1.7" />
       <module name="_20180926" target="1.7" />
